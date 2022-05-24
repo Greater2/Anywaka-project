@@ -1,0 +1,43 @@
+.signup {
+  height: 95px;
+  display: flex;
+  justify-content: center;
+}
+.signcontainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* border: 1px red solid; */
+}
+.login {
+  padding-right: 29px;
+  font-size: 18px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Roboto Mono", monospace;
+  font-family: "Rubik", sans-serif;
+  color: darkgray;
+  cursor: pointer;
+}
+.logo-image {
+  height: 10vh;
+  margin-left: 16vh;
+}
+.sign-body {
+  background-color: #f6f6f6;
+  height: 110vh;
+}
+.bodycontainer {
+  width: 100%;
+}
+.sign-form {
+  text-align: center;
+  padding-top: 20vh;
+  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Roboto Mono", monospace;
+  font-family: "Rubik", sans-serif;
+}
+.sign-image {
+  height: 110vh;
+}
+ 
